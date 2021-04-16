@@ -1,0 +1,17 @@
+{
+  "name": "_BOTDC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment-timezone": "^0.5.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafi",
+  "license": "ISC"
+}
